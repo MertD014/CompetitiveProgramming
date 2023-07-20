@@ -6,20 +6,23 @@ Please feel free to ask/suggest anything.
 ----------------------------------------------------------------------------
 Links
 ----------------------------------------------------------------------------
-Codeforces               --------> https://codeforces.com
 
-Codeforces Profile       --------> https://codeforces.com/profile/MertD014
+Codeforces ----------------------> https://codeforces.com
 
-Atcoder                  --------> https://atcoder.jp
+Codeforces Profile --------------> https://codeforces.com/profile/MertD014
 
-Atcoder Profile          -------->https://atcoder.jp/users/MertD014
+Atcoder -------------------------> https://atcoder.jp
 
-Hackerrank               --------> https://www.hackerrank.com
+Atcoder Profile -----------------> https://atcoder.jp/users/MertD014
 
-Hackerrank Profile       -------->https://www.hackerrank.com/MertD014?hr_r=1
+Hackerrank ----------------------> https://www.hackerrank.com
+
+Hackerrank Profile -------------->https://www.hackerrank.com/MertD014?hr_r=1
+----------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------
 Additional Links
 ----------------------------------------------------------------------------
+
 Codeforces Visualizer    -------> https://cfviz.netlify.app
 ----------------------------------------------------------------------------
