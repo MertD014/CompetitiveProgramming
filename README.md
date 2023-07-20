@@ -3,6 +3,8 @@ Includes my solutions to the problems on competitive programming sites like Code
 
 Please feel free to ask/suggest anything.
 
+Note: I am migrating all my submissions manually. It is not complete!!!
+
 ----------------------------------------------------------------------------
 Links
 ----------------------------------------------------------------------------
